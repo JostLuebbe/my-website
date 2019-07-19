@@ -4,3 +4,5 @@ venv/
 .flaskenv
 .DS_Store
 app.db
+.env
+certs/
